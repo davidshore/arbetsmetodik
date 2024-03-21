@@ -1,20 +1,16 @@
 # Skapa och publicera din portfolio
 
 I dagens uppgift ska vi öva på deployment med nextjs och vercel genom att ni ska få
-skapa er egen portfolio.
-
-### Sätt upp projektet
-
-1. Öppna en terminal och gå med `cd` där du vill skapa projektet.
-2. Skriv `npx create-next-app portfolio`
+publicera er portfolio. Ni ska även öva på app router genom att skriva om er tidigare portfolio med app router.
 
 ## Hur du klarar uppgiften
 
-1. Googla `developer portfolio figma` och välj den design du gillar bäst.
-2. Skapa alla sidor genom att skapa komponenter i mappen `pages`
-3. Publicera alla projekt som du vill visa upp med vercel.
-4. Publicera din portfolio med länkar till alla dina projekt.
-5. (Ej obligatoriskt) Köp ett domännamn och peka det till ditt ip-nummer på vercel.
+1. Designa din portfolio om du inte redan har gjort det. Annars googla `developer portfolio figma` och välj den design du gillar bäst.
+1. Gör om din gamla portfolio från pages router till app router.
+1. Läs på hur du publicerar next-projekt på vercel: [Deploy on Vercel](https://nextjs.org/learn-pages-router/basics/deploying-nextjs-app/deploy)
+1. Publicera alla projekt som du vill visa upp med vercel.
+1. Publicera din portfolio med länkar till alla dina projekt.
+1. (Ej obligatoriskt) Köp ett domännamn och peka det till ditt ip-nummer på vercel.
 
 ## Hur du lämnar in
 
